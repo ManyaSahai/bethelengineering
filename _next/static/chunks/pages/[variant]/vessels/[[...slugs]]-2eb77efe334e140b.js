@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4984],{47120:(_,s,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/[variant]/vessels/[[...slugs]]",function(){return e(65354)}])},65354:(_,s,e)=>{"use strict";e.r(s),e.d(s,{__N_SSG:()=>n,default:()=>a});var u=e(90868),n=!0;let a=u.A}},_=>{var s=s=>_(_.s=s);_.O(0,[3255,2034,7390,437,5332,868,636,6593,8792],()=>s(47120)),_N_E=_.O()}]);
+//# sourceMappingURL=[[...slugs]]-2eb77efe334e140b.js.map

@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2051],{63978:(_,e,u)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/[variant]/equipment/[[...slugs]]",function(){return u(68129)}])},68129:(_,e,u)=>{"use strict";u.r(e),u.d(e,{__N_SSG:()=>s,default:()=>t});var n=u(90868),s=!0;let t=n.A}},_=>{var e=e=>_(_.s=e);_.O(0,[3255,2034,7390,437,5332,868,636,6593,8792],()=>e(63978)),_N_E=_.O()}]);
+//# sourceMappingURL=[[...slugs]]-422c6d36d89c2863.js.map

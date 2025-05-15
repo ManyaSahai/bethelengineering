@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[230],{8916:(_,s,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/[variant]/markets/[[...slugs]]",function(){return e(38108)}])},38108:(_,s,e)=>{"use strict";e.r(s),e.d(s,{__N_SSG:()=>a,default:()=>n});var u=e(90868),a=!0;let n=u.A}},_=>{var s=s=>_(_.s=s);_.O(0,[3255,2034,7390,437,5332,868,636,6593,8792],()=>s(8916)),_N_E=_.O()}]);
+//# sourceMappingURL=[[...slugs]]-febff761e764ef00.js.map
